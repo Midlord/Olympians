@@ -1,0 +1,366 @@
+<site version="3.0"><css/><components/><page id="p4492719" pageindex="0" name="Home" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape1" zorder="0" filename="shape4631934" width="1360" height="87" bgcolor="#022E51" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeLNUNL.gif" left="-9" top="34" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape4631934.gif" lp="1"/><Component type="3" id="image2" zorder="12" filename="image4769902" left="1" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1440731" resamplename="img1440731" exportfilename="images/Picture3.png" fp="1" lp="1"/><Component type="2" id="text1" zorder="11" filename="text4816920" width="150" height="41" html="" left="171" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="5" id="nav1" zorder="10" filename="nav4952111" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p4492719" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\NavCJI8O" left="417" top="63" fp="1" exportfilename="images/nav4952111" exportsound="" lp="1"/><Component type="2" id="text2" zorder="6" filename="text5032545" width="782" height="123" html="" left="569" top="564" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Harry P" style="font-size:64px;"&gt;&lt;B&gt;Learn Mythology.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Harry P" style="font-size:64px;"&gt;&lt;B&gt;Explore a Whole New World.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Harry P" class="ws48"&gt;&lt;B&gt;Learn Mythology.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Harry P" class="ws48"&gt;&lt;B&gt;Explore a Whole New World.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdIYXJyeSBQBFNpemUCMAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANCkxlYXJuIE15
+dGhvbG9neS4NCkV4cGxvcmUgYSBXaG9sZSBOZXcgV29ybGQuDQo=
+</rvf></Component><Component type="3" id="image6" zorder="4" filename="image5325983" left="261" top="146" width="237" height="230" originwidth="261" originheight="253" src="WSB://images\Picture9.png" previewfile="WSB://images\Picture9.png" thumbname="thumb1440700" resamplename="img1440700" exportfilename="images/Picture9.png" fp="1" lp="1"/><Component type="3" id="image1" zorder="1" filename="image22846502" left="1" top="82" width="1881" height="1066" originwidth="852" originheight="480" src="WSB://images\1.jpg" previewfile="WSB://images\1.jpg" thumbname="thumb1440669" resamplename="img1440669" exportfilename="images/1.jpg" fp="1" lp="1"/><Component type="4" id="shape3" zorder="2" filename="shape23613075" width="1505" height="685" left="208" top="189" spborder="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape23613075.gif" lp="1" bgcolor="#000000" borderstyle="0" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeEIEQH.gif"/><Component type="3" id="image8" zorder="3" filename="image24146146" left="400" top="226" width="1126" height="474" originwidth="500" originheight="211" src="WSB://images\tumblr_lzg1pfYnKl1r76g11o1_500_large.gif" previewfile="WSB://images\tumblr_lzg1pfYnKl1r76g11o1_500_large.gif" thumbname="thumb1440684" resamplename="img1440684" exportfilename="images/tumblr_lzg1pfYnKl1r76g11o1_500_large.gif" fp="1" lp="1" bgcolor="#00FFFF" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0"/><Component type="3" id="image4" zorder="5" filename="image24394905" left="783" top="111" width="393" height="316" originwidth="324" originheight="260" src="WSB://images\gdfgdfg.png" previewfile="WSB://images\gdfgdfg.png" thumbname="thumb1440716" resamplename="img1440716" exportfilename="images/gdfgdfg.png" fp="1" lp="1"/><Component type="4" id="shape4" zorder="7" filename="shape25038035" width="1506" height="168" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeGE023.gif" left="208" top="873" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" fp="1" exportfilename="images/shape25038035.gif" lp="1"/><Component type="2" id="text3" zorder="9" filename="text25098844" width="1383" height="179" html="" left="270" top="839" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Centaur" style="font-size:37px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The Greeks did not believe that the gods created the universe. It was the other way around: the universe created the gods. Before there were gods, heaven and earth had been formed. They were the first parents. The Titans were their children, and the gods were their grandchildren...&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Centaur" class="ws28"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The Greeks did not believe that the gods created the universe. It was the other way around: the universe created the gods. Before there were gods, heaven and earth had been formed. They were the first parents. The Titans were their children, and the gods were their grandchildren...&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDZW50YXVyBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCiAgICAgICAg
+VGhlIEdyZWVrcyBkaWQgbm90IGJlbGlldmUgdGhhdCB0aGUgZ29kcyBjcmVhdGVkIHRoZSB1bml2
+ZXJzZS4gSXQgd2FzIHRoZSBvdGhlciB3YXkgYXJvdW5kOiB0aGUgdW5pdmVyc2UgY3JlYXRlZCB0
+aGUgZ29kcy4gQmVmb3JlIHRoZXJlIHdlcmUgZ29kcywgaGVhdmVuIGFuZCBlYXJ0aCBoYWQgYmVl
+biBmb3JtZWQuIFRoZXkgd2VyZSB0aGUgZmlyc3QgcGFyZW50cy4gVGhlIFRpdGFucyB3ZXJlIHRo
+ZWlyIGNoaWxkcmVuLCBhbmQgdGhlIGdvZHMgd2VyZSB0aGVpciBncmFuZGNoaWxkcmVuLi4uDQo=
+</rvf></Component><Component type="3" id="image3" zorder="8" filename="image27143081" left="3" top="0" width="1879" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1440716" resamplename="img1440716" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="3" id="image5" zorder="13" filename="image3923019" left="1404" top="142" width="229" height="212" originwidth="332" originheight="307" src="WSB://images\a.png" previewfile="WSB://images\a.png" thumbname="thumb4080658" resamplename="img4080658" exportfilename="images/a.png" fp="1" lp="1"/></body></page><page id="p5530329" pageindex="1" name="Lessons" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape2" zorder="0" filename="shape5530329" width="1890" height="1635" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shape4C263.gif" left="0" top="0" fp="1" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape5530329.gif" lp="1"/><Component type="3" id="image3" zorder="1" filename="image9008558" left="127" top="721" width="394" height="82" originwidth="399" originheight="83" src="WSB://images\Picture1.png" previewfile="WSB://images\Picture1.png" linkurl="download://E:\PUBLISHED\ICT\Olympians\The Greek Gods.mp4" lp="1" dlfilename="files/The Greek Gods.mp4" thumbname="thumb1447205" resamplename="img1447205" exportfilename="images/Picture1.png" fp="1" linktype="_self"/><Component type="3" id="image4" zorder="2" filename="image13971667" left="388" top="1264" width="407" height="83" originwidth="407" originheight="83" src="WSB://images\Picture2.png" previewfile="WSB://images\Picture2.png" linkurl="download://E:\ICT\Videos\Pygmalion and Galatea.mp4" lp="1" dlfilename="files/Pygmalion and Galatea.mp4" thumbname="thumb1447205" resamplename="img1447205" exportfilename="images/Picture2.png" fp="1"/><Component type="3" id="image5" zorder="3" filename="image14005629" left="1371" top="728" width="400" height="83" originwidth="400" originheight="83" src="WSB://images\Picture4.png" previewfile="WSB://images\Picture4.png" linkurl="download://E:\ICT\Videos\Orpheus and Eurydice.mp4" lp="1" dlfilename="files/Orpheus and Eurydice.mp4" thumbname="thumb1447221" resamplename="img1447221" exportfilename="images/Picture4.png" fp="1"/><Component type="3" id="image6" zorder="4" filename="image14014708" left="741" top="726" width="399" height="83" originwidth="399" originheight="83" src="WSB://images\Picture5.png" previewfile="WSB://images\Picture5.png" linkurl="download://E:\ICT\Videos\Cupid and Psyche.mp4" lp="1" dlfilename="files/Cupid and Psyche.mp4" thumbname="thumb1447236" resamplename="img1447236" exportfilename="images/Picture5.png" fp="1"/><Component type="3" id="image7" zorder="5" filename="image14025956" left="1088" top="1260" width="399" height="83" originwidth="399" originheight="83" src="WSB://images\Picture6.png" previewfile="WSB://images\Picture6.png" linkurl="download://E:\ICT\Videos\Pyramus and Thisbe.mp4" lp="1" dlfilename="files/Pyramus and Thisbe.mp4" thumbname="thumb1447252" resamplename="img1447252" exportfilename="images/Picture6.png" fp="1"/><Component type="3" id="image1" zorder="6" filename="image3074093" left="63" top="391" width="523" height="300" originwidth="1024" originheight="541" src="WSB://images\1399233_orig.png" previewfile="WSB://images\1399233_orig.png" bgcolor="" borderstyle="1" bordercolor="#FFFFFF" borderwidth="3" changefilename="0" alt="" ratio="0" fp="1" thumbname="thumb1447268" resamplename="img1447268" exportfilename="images/1399233_orig.png" lp="1"/><Component type="3" id="image9" zorder="7" filename="image3180171" left="653" top="384" width="576" height="307" originwidth="1366" originheight="768" src="WSB://images\sgsdgsdg.png" previewfile="WSB://images\sgsdgsdg.png" bgcolor="" borderstyle="1" bordercolor="#FFFFFF" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb1447268" resamplename="img1447268" exportfilename="images/sgsdgsdg.png" fp="1" lp="1"/><Component type="3" id="image10" zorder="8" filename="image3363375" left="1303" top="382" width="533" height="311" originwidth="480" originheight="360" src="WSB://images\hqdefault.jpg" previewfile="WSB://images\hqdefault.jpg" bgcolor="" borderstyle="1" bordercolor="#FFFFFF" borderwidth="3" changefilename="0" alt="" ratio="0" fp="1" thumbname="thumb1447283" resamplename="img1447283" exportfilename="images/hqdefault.jpg" lp="1"/><Component type="3" id="image11" zorder="9" filename="image3525328" left="309" top="910" width="576" height="308" originwidth="1280" originheight="720" src="WSB://images\maxresdefault.jpg" previewfile="WSB://images\maxresdefault.jpg" bgcolor="" borderstyle="1" bordercolor="#FFFFFF" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb1447299" resamplename="img1447299" exportfilename="images/maxresdefault.jpg" fp="1" lp="1"/><Component type="3" id="image12" zorder="10" filename="image3835531" left="991" top="910" width="574" height="308" originwidth="456" originheight="358" src="WSB://images\thisbe_pyrL.jpg" previewfile="WSB://images\thisbe_pyrL.jpg" bgcolor="" borderstyle="1" bordercolor="#FFFFFF" borderwidth="3" changefilename="0" resample="0" alt="" ratio="0" thumbname="thumb1447314" resamplename="img1447314" exportfilename="images/thisbe_pyrL.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="11" filename="image4666156" left="-2" top="0" width="1883" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1447314" resamplename="img1447330" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="12" filename="nav4666156" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\NavE6RKJ" left="417" top="62" fp="1" navurl0="page://p4492719" exportfilename="images/nav4666156" exportsound="" lp="1"/><Component type="2" id="text1" zorder="13" filename="text4666156" width="150" height="41" html="" left="171" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="3" id="image8" zorder="14" filename="image4666156" left="1" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1447330" resamplename="img1447330" exportfilename="images/Picture3.png" fp="1" lp="1"/><Component type="3" id="image13" zorder="15" filename="image561291" left="304" top="910" width="578" height="313" originwidth="1280" originheight="720" src="WSB://images\maxresdefault.jpg" previewfile="WSB://images\maxresdefault.jpg" thumbname="thumb1447346" resamplename="img1447346" exportfilename="images/maxresdefault.jpg" fp="1" lp="1"/><Component type="2" id="text2" zorder="16" filename="text18063262" width="664" height="152" html="" left="609" top="181" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Papyrus" style="font-size:96px;"&gt;&lt;B&gt;LESSONS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Papyrus" class="ws72"&gt;&lt;B&gt;LESSONS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdQYXB5cnVzBFNpemUCSAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xX
+aGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkxFU1NPTlMN
+Cg==
+</rvf></Component></body></page><page id="p5715143" pageindex="2" name="Games" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape2" zorder="0" filename="shape5838009" width="1884" height="2332" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeBEGHD.gif" left="0" top="129" fp="1" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape5838009.gif" lp="1" selected="1"/><Component type="3" id="image6" zorder="1" filename="image15088931" left="627" top="1155" width="693" height="144" originwidth="399" originheight="83" src="WSB://images\Picture7.png" previewfile="WSB://images\Picture7.png" linkurl="download://E:\PUBLISHED\Posterfinal.pdf" lp="1" linktype="_self" dlfilename="files/Posterfinal.pdf" thumbname="thumb1459436" resamplename="img1459436" exportfilename="images/Picture7.png" fp="1"/><Component type="3" id="image3" zorder="2" filename="image33084442" left="542" top="457" width="865" height="649" originwidth="640" originheight="480" src="WSB://images\ed9ea884c64a39a37a06e587be09974a796a0ad5_hq.gif" previewfile="WSB://images\ed9ea884c64a39a37a06e587be09974a796a0ad5_hq.gif" thumbname="thumb1459436" resamplename="img1459436" exportfilename="images/ed9ea884c64a39a37a06e587be09974a796a0ad5_hq.gif" fp="1" lp="1"/><Component type="3" id="image7" zorder="3" filename="image33151928" left="74" top="184" width="253" height="177" originwidth="680" originheight="476" src="WSB://images\zeus-clipart-greek-mythology-831684-1540080.gif" previewfile="WSB://images\zeus-clipart-greek-mythology-831684-1540080.gif" thumbname="thumb1459451" resamplename="img1459451" exportfilename="images/zeus-clipart-greek-mythology-831684-1540080.gif" fp="1" lp="1"/><Component type="3" id="image9" zorder="4" filename="image33180695" left="346" top="186" width="241" height="169" originwidth="680" originheight="476" src="WSB://images\7c9d52e058692cadcc0852e540534868_original.gif" previewfile="WSB://images\7c9d52e058692cadcc0852e540534868_original.gif" thumbname="thumb1459467" resamplename="img1459467" exportfilename="images/7c9d52e058692cadcc0852e540534868_original.gif" fp="1" lp="1"/><Component type="3" id="image10" zorder="5" filename="image33199820" left="1350" top="188" width="251" height="176" originwidth="680" originheight="476" src="WSB://images\4bb2b4fb3769ac7485afa61246e38ca4_original.gif" previewfile="WSB://images\4bb2b4fb3769ac7485afa61246e38ca4_original.gif" thumbname="thumb1459482" resamplename="img1459482" exportfilename="images/4bb2b4fb3769ac7485afa61246e38ca4_original.gif" fp="1" lp="1"/><Component type="3" id="image11" zorder="6" filename="image33223766" left="1584" top="178" width="270" height="189" originwidth="680" originheight="476" src="WSB://images\bf82add0664281c9adfef9a30cc1c11b_original.gif" previewfile="WSB://images\bf82add0664281c9adfef9a30cc1c11b_original.gif" thumbname="thumb1459482" resamplename="img1459498" exportfilename="images/bf82add0664281c9adfef9a30cc1c11b_original.gif" fp="1" lp="1"/><Component type="3" id="image1" zorder="7" filename="image33857645" left="199" top="1922" width="276" height="71" originwidth="649" originheight="167" src="WSB://images\Picture8.png" previewfile="WSB://images\Picture8.png" linkurl="download://E:\ICT\Olympians\GAME-Who is that Olympian.ppsx" linktype="_self" lp="1" dlfilename="files/GAME-Who is that Olympian.ppsx" thumbname="thumb1459498" resamplename="img1459498" exportfilename="images/Picture8.png" fp="1"/><Component type="3" id="image5" zorder="8" filename="image33912433" left="834" top="1905" width="269" height="80" originwidth="630" originheight="168" src="WSB://images\fsdfsdf.png" previewfile="WSB://images\fsdfsdf.png" linkurl="page://p34325851" linktype="_self" lp="1" thumbname="thumb1459514" resamplename="img1459514" exportfilename="images/fsdfsdf.png" fp="1"/><Component type="3" id="image4" zorder="9" filename="image34043099" left="1437" top="1908" width="271" height="72" originwidth="630" originheight="168" src="WSB://images\gfhfh.png" previewfile="WSB://images\gfhfh.png" linkurl="download://E:\ICT\PPT's\Orpheus and Eurydice.pps" linktype="_self" lp="1" dlfilename="files/Orpheus and Eurydice.pps" thumbname="thumb1459529" resamplename="img1459529" exportfilename="images/gfhfh.png" fp="1"/><Component type="3" id="image12" zorder="10" filename="image41574859" left="147" top="1389" width="429" height="521" originwidth="398" originheight="483" src="WSB://images\hjghjhj.png" previewfile="WSB://images\hjghjhj.png" thumbname="thumb1459545" resamplename="img1459545" exportfilename="images/hjghjhj.png" fp="1" lp="1"/><Component type="3" id="image13" zorder="11" filename="image41700720" left="702" top="1417" width="494" height="421" originwidth="1464" originheight="1245" src="WSB://images\sdfsdf.png" previewfile="WSB://images\sdfsdf.png" thumbname="thumb1459560" resamplename="img1459560" exportfilename="images/sdfsdf.png" fp="1" lp="1"/><Component type="3" id="image14" zorder="12" filename="image41911072" left="1338" top="1422" width="473" height="398" originwidth="878" originheight="738" src="WSB://images\fdfd.png" previewfile="WSB://images\fdfd.png" thumbname="thumb1459560" resamplename="img1459560" exportfilename="images/fdfd.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="13" filename="image5075890" left="1" top="0" width="1886" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1459576" resamplename="img1459576" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="2" id="text1" zorder="14" filename="text5075890" width="150" height="41" html="" left="171" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="3" id="image8" zorder="15" filename="image5075890" left="0" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1459592" resamplename="img1459592" exportfilename="images/Picture3.png" fp="1" lp="1"/><Component type="3" id="image15" zorder="16" filename="image17020988" left="537" top="0" width="845" height="659" originwidth="1000" originheight="780" src="WSB://images\g.gif" previewfile="WSB://images\g.gif" thumbname="thumb17085666" resamplename="img17085666" exportfilename="images/g.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="17" filename="nav19712972" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p4492719" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\Nav294NB" left="417" top="63" fp="1" exportfilename="images/nav19712972" exportsound="" lp="1"/></body></page><page id="p5717655" pageindex="4" name="Activities" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape2" zorder="0" filename="shape5850801" width="1879" height="1572" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeEMIU9.gif" left="3" top="88" fp="1" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape5850801.gif" lp="1"/><Component type="3" id="image1" zorder="2" filename="image39856508" left="388" top="390" width="449" height="328" originwidth="1406" originheight="1069" src="WSB://images\dgfsdgf.png" previewfile="WSB://images\dgfsdgf.png" thumbname="thumb1465598" resamplename="img1465598" exportfilename="images/dgfsdgf.png" fp="1" lp="1"/><Component type="4" id="shape1" zorder="1" filename="shape39879752" width="442" height="318" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeODBGH.gif" left="392" top="393" spborder="0" bordercolor="#808080" borderwidth="1" fillstyle="18" fromcolor="#FFFFFF" tocolor="#808080" bgcolor="" fp="1" exportfilename="images/shape39879752.gif" lp="1"/><Component type="2" id="text2" zorder="3" filename="text40012821" width="584" height="48" html="" left="332" top="730" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="JasmineUPC" style="font-size:48px;"&gt;&lt;B&gt;PYRAMUS AND THISBE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="JasmineUPC" class="ws36"&gt;&lt;B&gt;PYRAMUS AND THISBE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCJAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcH
+Y2xXaGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNl
+bnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQH
+CHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0
+aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVy
+bnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClBZUkFN
+VVMgQU5EIFRISVNCRQ0K
+</rvf></Component><Component type="3" id="image3" zorder="4" filename="image40508108" left="373" top="913" width="422" height="490" originwidth="511" originheight="1043" src="WSB://images\;;;;.png" previewfile="WSB://images\;;;;.png" thumbname="thumb1465613" resamplename="img1465613" exportfilename="images/;;;;.png" fp="1" lp="1"/><Component type="2" id="text5" zorder="5" filename="text40537234" width="681" height="54" html="" left="267" top="1324" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="JasmineUPC" style="font-size:48px;"&gt;&lt;B&gt;PYGMALION AND GALATEA&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="JasmineUPC" class="ws36"&gt;&lt;B&gt;PYGMALION AND GALATEA&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCJAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcH
+Y2xXaGl0ZQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNl
+bnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQH
+CHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0
+aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVy
+bnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClBZR01B
+TElPTiBBTkQgR0FMQVRFQQ0K
+</rvf></Component><Component type="3" id="image2" zorder="6" filename="image31873765" left="-2" top="0" width="1883" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1465613" resamplename="img1465613" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="7" filename="nav31873765" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p4492719" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\NavLJ48D" left="417" top="64" fp="1" exportfilename="images/nav31873765" exportsound="" lp="1"/><Component type="2" id="text1" zorder="8" filename="text31873765" width="150" height="41" html="" left="171" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="3" id="image6" zorder="9" filename="image31873765" left="0" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1465629" resamplename="img1465629" exportfilename="images/Picture3.png" fp="1" lp="1"/><Component type="3" id="image7" zorder="10" filename="image32083671" left="602" top="165" width="628" height="182" originwidth="389" originheight="113" src="WSB://images\Picture5_2.png" previewfile="WSB://images\Picture5_2.png" fp="1" thumbname="thumb1465644" resamplename="img1465644" exportfilename="images/Picture5_2.png" lp="1"/><Component type="10" id="roundrect1" zorder="11" filename="roundrect32190109" width="489" height="90" fillstyle="0" spborder="0" fromcolor="#FF8080" shapetype="1" radius="20" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeIV6V0.gif" left="1119" top="519" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" group="1" groupname="gp32349203" fp="1" exportfilename="images/roundrect32190109.gif" lp="1"/><Component type="2" id="text3" zorder="12" filename="text32220015" width="438" height="44" html="" left="1146" top="543" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" group="1" groupname="gp32349203" linkurl="download://E:\PUBLISHED\pyramus and thisbe (Web)\movie.swf" linktype="_self" lp="1" fp="1" dlfilename="files/movie.swf" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="JasmineUPC" style="font-size:35px;"&gt;To take the test, click &lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" style="font-size:35px;"&gt;&lt;U&gt;here&lt;/U&gt;&lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" style="font-size:35px;"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="JasmineUPC" class="ws26"&gt;To take the test, click &lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" class="ws26"&gt;&lt;U&gt;here&lt;/U&gt;&lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" class="ws26"&gt;.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCGgVDb2xvcgcHY2xCbGFjawABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCGgVT
+dHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoH
+AQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+CENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQ
+cm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZz
+DQoCAAAADgAzIDEgMSAwIDAgMA0KVG8gdGFrZSB0aGUgdGVzdCwgY2xpY2sgDQo0IDEgLTEgMSAw
+IDANCmhlcmUNCjMgMSAtMSAxIDAgMA0KLg0K
+</rvf></Component><Component type="10" id="roundrect2" zorder="13" filename="roundrect32283609" width="489" height="90" fillstyle="0" spborder="0" fromcolor="#FF8080" shapetype="1" radius="20" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapePEVC5.gif" left="1110" top="1074" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" group="1" groupname="gp32340515" linkurl="download://E:\pygmalion and galatea.quiz" linktype="_self" lp="1" dlfilename="files/pygmalion and galatea.quiz" exportfilename="images/roundrect32283609.gif" fp="1"/><Component type="2" id="text4" zorder="14" filename="text32290515" width="455" height="44" html="" left="1126" top="1095" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" group="1" groupname="gp32340515" fp="1" lp="1" backup="1" linkurl="download://E:\PUBLISHED\pygmalion and galatea (Web)\movie.swf" linktype="_self" dlfilename="files/movie.swf"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="JasmineUPC" style="font-size:35px;"&gt;To take the test, click &lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" style="font-size:35px;"&gt;&lt;U&gt;here.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="JasmineUPC" class="ws26"&gt;To take the test, click &lt;/font&gt;&lt;font color="#000000" face="JasmineUPC" class="ws26"&gt;&lt;U&gt;here.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCGgVDb2xvcgcHY2xCbGFjawABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCGgVT
+dHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoH
+AQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+CENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQ
+cm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZz
+DQoCAAAADgAzIDEgMSAwIDAgMA0KVG8gdGFrZSB0aGUgdGVzdCwgY2xpY2sgDQo0IDEgLTEgMSAw
+IDANCmhlcmUuDQo=
+</rvf></Component></body></page><page id="p5719651" pageindex="5" name="About Us" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape2" zorder="0" filename="shape5876011" width="1882" height="1572" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeH6C3T.gif" left="0" top="140" fp="1" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape5876011.gif" lp="1"/><Component type="3" id="image1" zorder="1" filename="image30020093" left="2" top="0" width="1879" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1471619" resamplename="img1471619" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="2" filename="nav30020093" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p4492719" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\Nav72NR7" left="416" top="64" fp="1" exportfilename="images/nav30020093" exportsound="" lp="1"/><Component type="2" id="text1" zorder="3" filename="text30020093" width="150" height="41" html="" left="170" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="3" id="image2" zorder="4" filename="image30020078" left="0" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1471635" resamplename="img1471635" exportfilename="images/Picture3.png" fp="1" lp="1"/><Component type="2" id="text2" zorder="9" filename="text30869765" width="150" height="90" html="Double click to edit text" left="115" top="2" fp="1" lp="1" backup="1"/><Component type="2" id="text7" zorder="10" filename="text32756625" width="668" height="127" html="" left="638" top="179" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:96px;"&gt;ABOUT US&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws72"&gt;ABOUT US&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAkgFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpBQk9VVCBVUw0K
+</rvf></Component><Component type="2" id="text3" zorder="11" filename="text16529366" width="412" height="102" html="" left="30" top="711" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" backup="1" group="1" groupname="gp16767705" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" style="font-size:21px;"&gt;Ms. Tricia L. Canlas&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px;"&gt;tcanlas@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px;"&gt;+63 918-536-7680&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" class="ws16"&gt;Ms. Tricia L. Canlas&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16"&gt;tcanlas@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16"&gt;+63 918-536-7680&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoiAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIQAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgAzIDEgMSAwIDAgMA0KTXMuIFRyaWNpYSBMLiBDYW5sYXMNCjQgMiAxIDAgMCAw
+DQp0Y2FubGFzQGhhdS5lZHUucGgNCis2MyA5MTgtNTM2LTc2ODANCg==
+</rvf></Component><Component type="2" id="text5" zorder="12" filename="text16529382" width="412" height="102" html="" left="923" top="712" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" backup="1" group="1" groupname="gp16887077" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" style="font-size:24px;"&gt;Mr. Vergel S. Quiazon&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px;"&gt;vquiazon@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px;"&gt;+63 921-857-2346&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" class="ws18"&gt;Mr. Vergel S. Quiazon&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws18"&gt;vquiazon@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws18"&gt;+63 921-857-2346&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoiAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYLQXJpYWwgQmxhY2sEU2l6ZQISAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgA0IDEgMSAwIDAgMA0KTXIuIFZlcmdlbCBTLiBRdWlhem9uDQozIDIgMSAwIDAg
+MA0KdnF1aWF6b25AaGF1LmVkdS5waA0KKzYzIDkyMS04NTctMjM0Ng0K
+</rvf></Component><Component type="2" id="text6" zorder="13" filename="text16529382" width="412" height="102" html="" left="1384" top="711" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" backup="1" group="1" groupname="gp16881367" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" style="font-size:21px;"&gt;Ms. Christine Joy L. Sagun&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px;"&gt;csagun@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px;"&gt;+63 997-106-9284&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" class="ws16"&gt;Ms. Christine Joy L. Sagun&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws18"&gt;csagun@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws18"&gt;+63 997-106-9284&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoiAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYLQXJpYWwgQmxhY2sEU2l6ZQIQAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgA0IDEgMSAwIDAgMA0KTXMuIENocmlzdGluZSBKb3kgTC4gU2FndW4NCjMgMiAx
+IDAgMCAwDQpjc2FndW5AaGF1LmVkdS5waA0KKzYzIDk5Ny0xMDYtOTI4NA0K
+</rvf></Component><Component type="3" id="image4" zorder="6" filename="image30685062" left="78" top="319" width="331" height="502" originwidth="439" originheight="698" src="WSB://images\Picture2.jpg" previewfile="WSB://images\Picture2.jpg" fp="1" thumbname="thumb1471666" resamplename="img1471666" exportfilename="images/Picture2.jpg" lp="1" group="1" groupname="gp16767705"/><Component type="3" id="image3" zorder="5" filename="image30685046" left="538" top="319" width="322" height="508" originwidth="415" originheight="698" src="WSB://images\Picture1.jpg" previewfile="WSB://images\Picture1.jpg" fp="1" thumbname="thumb1471651" resamplename="img1471651" exportfilename="images/Picture1.jpg" lp="1" group="1" groupname="gp16890290"/><Component type="3" id="image5" zorder="7" filename="image30685062" left="981" top="323" width="305" height="505" originwidth="422" originheight="724" src="WSB://images\Picture3.jpg" previewfile="WSB://images\Picture3.jpg" fp="1" thumbname="thumb1471666" resamplename="img1471666" exportfilename="images/Picture3.jpg" lp="1"/><Component type="3" id="image6" zorder="8" filename="image30685078" left="1434" top="324" width="323" height="503" originwidth="432" originheight="745" src="WSB://images\Picture4.jpg" previewfile="WSB://images\Picture4.jpg" fp="1" thumbname="thumb1471682" resamplename="img1471682" exportfilename="images/Picture4.jpg" lp="1" group="1" groupname="gp16881367"/><Component type="2" id="text4" zorder="14" filename="text16783227" width="412" height="102" html="" left="485" top="711" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" backup="1" group="1" groupname="gp16890290" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" style="font-size:19px;"&gt;Mr. John Raphael M. Marquez&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;jmarquez@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;+63 975-005-6597&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Black" class="ws14"&gt;Mr. John Raphael M. Marquez&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;jmarquez@hau.edu.ph&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;+63 975-005-6597&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoiAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOAAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5
+bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgAzIDEgMSAwIDAgMA0KTXIuIEpvaG4gUmFwaGFlbCBNLiBNYXJxdWV6DQo0IDIg
+MSAwIDAgMA0Kam1hcnF1ZXpAaGF1LmVkdS5waA0KKzYzIDk3NS0wMDUtNjU5Nw0K
+</rvf></Component></body></page><page id="p34325851" pageindex="3" name="Psyche's Task" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="4" id="shape2" zorder="0" filename="shape34325867" width="1890" height="2607" bgcolor="#000000" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeV7JQ7.gif" left="1" top="337" fp="1" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape34325867.gif" lp="1"/><Component type="4" id="shape1" zorder="1" filename="shape34451588" width="1888" height="200" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shape7GGFB.gif" left="0" top="146" spborder="1" bordercolor="#000000" borderwidth="1" fillstyle="18" fromcolor="#FFFFFF" tocolor="#666699" bgcolor="" fp="1" exportfilename="images/shape34451588.gif" lp="1"/><Component type="3" id="image1" zorder="2" filename="image34661019" left="658" top="178" width="744" height="139" originwidth="872" originheight="719" src="WSB://images\dfsdf.png" previewfile="WSB://images\dfsdf.png" thumbname="thumb1486377" resamplename="img1486377" exportfilename="images/dfsdf.png" fp="1" lp="1"/><Component type="3" id="image3" zorder="3" filename="image34736976" left="372" top="152" width="195" height="196" originwidth="666" originheight="671" src="WSB://images\fgyh.png" previewfile="WSB://images\fgyh.png" thumbname="thumb1486393" resamplename="img1486393" exportfilename="images/fgyh.png" fp="1" lp="1"/><Component type="2" id="text2" zorder="4" filename="text34912789" width="150" height="90" html="Double click to edit text" left="158" top="571" fp="1" lp="1" backup="1"/><Component type="3" id="image5" zorder="5" filename="image35104670" left="83" top="474" width="829" height="466" originwidth="1366" originheight="768" src="WSB://images\sgsdgsdg.png" previewfile="WSB://images\sgsdgsdg.png" thumbname="thumb1486408" resamplename="img1486408" exportfilename="images/sgsdgsdg.png" fp="1" lp="1"/><Component type="3" id="image6" zorder="6" filename="image35180971" left="980" top="476" width="823" height="464" originwidth="1362" originheight="768" src="WSB://images\gfgf.png" previewfile="WSB://images\gfgf.png" thumbname="thumb1486408" resamplename="img1486408" exportfilename="images/gfgf.png" fp="1" lp="1"/><Component type="4" id="shape3" zorder="7" filename="shape35231016" width="824" height="152" previewfile="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\shapeIJAQL.gif" left="548" top="1004" spborder="1" bordercolor="#000000" borderwidth="1" fillstyle="18" fromcolor="#FFFFFF" tocolor="#968C69" bgcolor="" fp="1" exportfilename="images/shape35231016.gif" lp="1"/><Component type="2" id="text3" zorder="8" filename="text35330108" width="150" height="90" html="Double click to edit text" left="347" top="1385" fp="1" lp="1" backup="1"/><Component type="3" id="image4" zorder="9" filename="image35658505" left="287" top="1361" width="256" height="378" originwidth="309" originheight="457" src="WSB://images\fgdff.png" previewfile="WSB://images\fgdff.png" linkurl="download://E:\ICT\PPT's\GAME 1.pps" linktype="_self" lp="1" dlfilename="files/GAME 1.pps" thumbname="thumb1486424" resamplename="img1486424" exportfilename="images/fgdff.png" fp="1"/><Component type="3" id="image9" zorder="10" filename="image35812931" left="840" top="1613" width="318" height="476" originwidth="308" originheight="461" src="WSB://images\fgdfgf.png" previewfile="WSB://images\fgdfgf.png" linkurl="download://E:\ICT\PPT's\GAME 2.pps" linktype="_self" lp="1" dlfilename="files/GAME 2.pps" thumbname="thumb1486439" resamplename="img1486439" exportfilename="images/fgdfgf.png" fp="1"/><Component type="3" id="image10" zorder="11" filename="image35840995" left="258" top="1863" width="329" height="488" originwidth="309" originheight="457" src="WSB://images\dfdfd.png" previewfile="WSB://images\dfdfd.png" linkurl="download://E:\ICT\PPT's\GAME 3.pps" linktype="_self" lp="1" dlfilename="files/GAME 3.pps" thumbname="thumb1486455" resamplename="img1486455" exportfilename="images/dfdfd.png" fp="1"/><Component type="3" id="image11" zorder="12" filename="image35875596" left="834" top="2207" width="343" height="515" originwidth="312" originheight="468" src="WSB://images\fdsfd.png" previewfile="WSB://images\fdsfd.png" linkurl="download://E:\ICT\PPT's\GAME 4.pps" linktype="_self" lp="1" dlfilename="files/GAME 4.pps" thumbname="thumb1486455" resamplename="img1486471" exportfilename="images/fdsfd.png" fp="1"/><Component type="2" id="text4" zorder="13" filename="text35921476" width="751" height="113" html="" left="581" top="1020" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="JasmineUPC" style="font-size:48px;"&gt;&lt;B&gt;Click the picture to help Psyche complete the tasks.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="JasmineUPC" class="ws36"&gt;&lt;B&gt;Click the picture to help Psyche complete the tasks.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr2AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpKYXNtaW5lVVBDBFNpemUCJAVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkg
+MiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkNsaWNrIHRoZSBwaWN0dXJlIHRv
+IGhlbHAgUHN5Y2hlIGNvbXBsZXRlIHRoZSB0YXNrcy4NCg==
+</rvf></Component><Component type="3" id="image7" zorder="14" filename="image36603793" left="528" top="1455" width="418" height="274" originwidth="428" originheight="280" src="WSB://images\sdfdf.png" previewfile="WSB://images\sdfdf.png" thumbname="thumb1486471" resamplename="img1486471" exportfilename="images/sdfdf.png" fp="1" lp="1"/><Component type="3" id="image12" zorder="15" filename="image36665523" left="466" top="1753" width="399" height="268" originwidth="433" originheight="291" src="WSB://images\dgdfgfg.png" previewfile="WSB://images\dgdfgfg.png" thumbname="thumb1486486" resamplename="img1486486" exportfilename="images/dgdfgfg.png" fp="1" lp="1"/><Component type="3" id="image13" zorder="16" filename="image36715942" left="537" top="2053" width="448" height="312" originwidth="432" originheight="301" src="WSB://images\dfsdfds.png" previewfile="WSB://images\dfsdfds.png" thumbname="thumb1486502" resamplename="img1486502" exportfilename="images/dfsdfds.png" fp="1" lp="1"/><Component type="3" id="image14" zorder="17" filename="image36773460" left="388" top="2407" width="461" height="154" originwidth="404" originheight="134" src="WSB://images\ddfsd.png" previewfile="WSB://images\ddfsd.png" thumbname="thumb1486517" resamplename="img1486517" exportfilename="images/ddfsd.png" fp="1" lp="1"/><Component type="3" id="image15" zorder="18" filename="image36821227" left="1182" top="1763" width="513" height="682" originwidth="649" originheight="890" src="WSB://images\dfsdfdggh.png" previewfile="WSB://images\dfsdfdggh.png" thumbname="thumb1486517" resamplename="img1486517" exportfilename="images/dfsdfdggh.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="19" filename="image32648859" left="3" top="0" width="1879" height="148" originwidth="854" originheight="332" src="WSB://images\2012.05.06_Lightning.2.gif" previewfile="WSB://images\2012.05.06_Lightning.2.gif" thumbname="thumb1486533" resamplename="img1486533" exportfilename="images/2012.05.06_Lightning.2.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="20" filename="nav32648859" fontname="Tahoma" fontsize="16" fontcolor="16777215" fontstyle="1" activecolor="3355443" navspace="160" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="HOME" navurl0="page://p4492719" navtarget0="_self" navstate0="0" navtext1="LESSONS" navurl1="page://p5530329" navtarget1="" navstate1="0" navtext2="GAMES" navurl2="page://p5715143" navtarget2="" navstate2="0" navtext3="ACTIVITIES" navurl3="page://p5717655" navtarget3="" navstate3="0" navtext4="ABOUT US" navurl4="page://p5719651" navstate4="0" navcount="5" width="1425" height="26" preview="C:\Users\lenovo\AppData\Local\Temp\Web Page Maker\docO72VU\Nav5IKJD" left="417" top="64" fp="1" exportfilename="images/nav32648859" exportsound="" lp="1"/><Component type="2" id="text1" zorder="21" filename="text32648859" width="150" height="41" html="" left="171" top="60" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" style="font-size:24px;"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Arial Black" class="ws18"&gt;YTHOLOGY&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr3AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgtBcmlhbCBCbGFjawRTaXplAhIFQ29sb3IHB2NsV2hpdGUAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVh
+ZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05
+IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpZVEhPTE9HWQ0K
+</rvf></Component><Component type="3" id="image8" zorder="22" filename="image32648859" left="1" top="0" width="202" height="147" originwidth="400" originheight="300" src="WSB://images\Picture3.png" previewfile="WSB://images\Picture3.png" thumbname="thumb1486549" resamplename="img1486549" exportfilename="images/Picture3.png" fp="1" lp="1"/></body></page></site>
